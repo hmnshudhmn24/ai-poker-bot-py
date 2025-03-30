@@ -51,6 +51,3 @@ The AI Poker Bot is a Python-based poker-playing bot that evaluates hand strengt
 - Support multi-round betting.
 - Add a GUI for better visualization.
 - Improve opponent AI logic.
-
-## License
-This project is open-source and available for modification and distribution.
